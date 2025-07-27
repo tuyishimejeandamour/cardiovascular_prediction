@@ -90,8 +90,12 @@ The Flutter app includes:
 ## Video Demonstration
 [Watch the 5-minute demo on YouTube](https://youtu.be/tHLidsQApws)
 <p align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/tHLidsQApws" title="5-minute demo" frameborder="0" allowfullscreen></iframe>
-</p>   
+	<a href="https://youtu.be/tHLidsQApws" target="_blank">
+		<img src="https://img.youtube.com/vi/tHLidsQApws/0.jpg" alt="5-minute demo" width="560"/>
+		<br>
+		<em>Click to watch the 5-minute demo on YouTube</em>
+	</a>
+</p>  
 *The video demonstrates:*
 - The mobile app making predictions
 - Swagger UI API tests
